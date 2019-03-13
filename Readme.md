@@ -1,1 +1,1 @@
-cdcs_scraper v0.1
+cdcs_scraper v1.0
